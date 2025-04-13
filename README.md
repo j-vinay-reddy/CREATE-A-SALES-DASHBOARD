@@ -5,7 +5,6 @@ DOMINE: Power BI
 DURATION: 6 WEEKS 
 MENTOR: NEELA SANTHOSH
 
-
 **DESCRIPTION**
 
 📊 Sales KPI Dashboard Report – Detailed Analysis
